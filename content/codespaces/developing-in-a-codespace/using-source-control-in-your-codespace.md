@@ -165,3 +165,13 @@ You can push changes you've saved and committed. This applies those changes to t
 1. In the Push Commits dialog, click **Push**.
 
 {% endjetbrains_beta %}
+![unnamed](https://github.com/user-attachments/assets/9bbf59bf-1e86-4ab2-a9b5-45bf7ae01cde)
+![snqMKpSiIwucg3NBKnhgJdSr64PNLyv4feQh](https://github.com/user-attachments/assets/23d240cd-6352-461f-8342-53545734e195)
+![GNHXjV918PUAaNXl7zxx3pYBqSM0jE6QaKlf](https://github.com/user-attachments/assets/60fb183b-91d9-428f-bd58-375a889f2c05)
+![bBxivNbx2CigaJHoXAVOU0G5BGEXOwboMHkl](https://github.com/user-attachments/assets/fc5227cb-dad0-4aef-b9b9-ef5b9fad0ff0)
+![SfxN1csctVHjVIsezB6AqSO7Ua82imlJ4iaa](https://github.com/user-attachments/assets/056947f7-67a2-4775-8b00-24ec2e5652e0)
+![Screenshot_2024-08-09-23-08-07-71_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/6bb31bec-b4db-49ee-9d8d-5c733ca89530)
+![emulator-suite-helloworld-firestore](https://github.com/user-attachments/assets/7bb193be-0aae-4569-9656-fb0e24c7321c)
+<img width="393" alt="emulator-suite-gui" src="https://github.com/user-attachments/assets/bd2cc616-7e86-460e-859e-44ed13630ca6">
+![emulator-suite-newfirestorecollection](https://github.com/user-attachments/assets/23fda800-42b1-43d0-9be0-aab5de70920c)
+![emulator-suite-touppercaseresult](https://github.com/user-attachments/assets/059aff89-bac0-4705-a6ba-dbae0ceb068f)
